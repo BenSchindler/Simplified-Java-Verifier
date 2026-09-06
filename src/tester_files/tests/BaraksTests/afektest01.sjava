@@ -1,0 +1,10 @@
+int a;
+a = 1234;
+
+void foo(){
+    int x = 20;
+    while (foo()){
+        x = 7;
+    }
+    return;
+}

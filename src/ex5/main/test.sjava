@@ -1,0 +1,21 @@
+int a=5,b;
+void main() {
+    int num = 1;
+    b=0;
+    if (5 && -2.5) {
+        if (true) {
+            func();
+        }
+    }
+    return;
+}
+
+b=5;
+void func() {
+    return;
+}
+
+void doStuff(int arg1, final String arg2) {
+    doStuff("RR", "Shit");
+    return;
+}

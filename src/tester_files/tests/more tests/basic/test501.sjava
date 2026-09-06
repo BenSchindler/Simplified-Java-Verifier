@@ -1,0 +1,20 @@
+     final			 int		 a = 5;
+   final    int    b    		=      		a                   		    ;
+
+   String    s    ;
+
+
+   void boo(int 		a,		 final		       int       	 b, String		 s)			 {
+	if (true) {
+		boo(1,2,"hello");
+		while (false) {
+			soo(true);
+		}
+	}
+	return;
+}
+
+void soo(boolean b) {
+	return;
+}
+
